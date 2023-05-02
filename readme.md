@@ -28,6 +28,13 @@ This is a Todo app where user can create and delete there todo list .
 ## 🤔 What i have learnt By working on this project
 1. How to use local storage for data saving with the help of key value pair
 
+## [Live Link](https://todo-app-p03.netlify.app/)
+
+
+## Demo In Laptop
+
+![image](./images/obj.png)
+
 
 ## 😌 Honest Time to finish the project
 
